@@ -1,6 +1,8 @@
 # JasmineTests
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+Created as a prototype for a research document whilst studying at FONTYS HOGESCHOLEN HBO-ICT. (2020)
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
 
